@@ -1,12 +1,8 @@
 # Hi there 👋 my name is Irfan Arif Fadhillah
 ## Nama Saya Irfan Arif Fadhillah
 
-saya adalah seorang pelajar
+### saya adalah seorang pelajar
 
-<!--
-**Irfan-Arif-Fadhillah/Irfan-Arif-Fadhillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently schooling on SMKN 2 MAGELANG
 - 🌱 I’m currently learning software enginering
