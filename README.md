@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi there 👋 my name is Irfan Arif Fadhillah
+## Nama Saya Irfan Arif Fadhillah
+
+saya adalah seorang pelajar
 
 <!--
 **Irfan-Arif-Fadhillah/Irfan-Arif-Fadhillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
